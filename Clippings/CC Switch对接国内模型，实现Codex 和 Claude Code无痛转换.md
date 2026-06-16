@@ -144,8 +144,7 @@ npm install -g @openai/codex
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1Emb2AuAPcgR4ibJQFu53l7AmLz0oU0dQcz0OqkxS1uLSb5krZE1Gicze1bXVTgcsX0ic8aHtuqve89V2MSSVv6YXWFJSumn4p574/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=15)
 
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/LlSQOKIxJ1G3HCZyWusPedy70WP9FcLKalqpNsy2hpwFQLFMpj1oSibW082ribC7QiaVE9FF0MRJlZcXrWdmzXTwxSYxtVdsyEaX0pkTPAqVgg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=16)
-
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/LlSQOKIxJ1G3HCZyWusPedy70WP9FcLKalqpNsy2hpwFQLFMpj1oSibW082ribC7QiaVE9FF0MRJlZcXrWdmzXTwxSYxt
 ### Codex 接入原理
 
 既然 Codex 的配置都放在 `~/.codex/config.toml` 这个文件里，那我直接把里面的接口地址 `base_url` 改成 DeepSeek 的不就行了？
