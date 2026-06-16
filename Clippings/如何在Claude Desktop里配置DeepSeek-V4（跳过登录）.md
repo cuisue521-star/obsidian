@@ -134,3 +134,5 @@ Claude Desktop重启之后，你应该可以进入程序主界面了：
 ![image](https://tu.aixq.cc/wp-content/uploads/2026/04/20260429074533903.jpg!ys)
 
 Have fun～
+CC switch
+https://ccswitch.io/zh/
