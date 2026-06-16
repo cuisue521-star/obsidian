@@ -29,7 +29,7 @@ tags:
 
 Claude Code、Codex 这些命令行工具，每一个的配置格式都不一样。如果你想给它们换个模型供应商，得自己去翻文档，手动编辑 JSON、TOML 或者 `.env` 文件，填一堆 Base URL、API Key、模型名之类的参数。说不定改错一个字符就跑不起来，想在几个模型之间来回切换就更麻烦了。。。
 
-CC Switch 就是来解决这个痛点的。它是一个免费开源的跨平台桌面应用，把 Claude Code、Claude Desktop、Codex、Gemini CLI、OpenCode、OpenClaw、Hermes Agent 这七个 AI 编程 CLI 的供应商配置、MCP 服务器、Prompts、Skills、代理、会话和成本追踪全部收进一个界面。它是一个跨平台桌面工具，用一个可视化界面统一管理 Claude Code、Codex、Gemini CLI、OpenCode 等多个 AI 编程工具的配置。
+CC Switch 就是来解决这个痛点的。它是一个免费开源的跨平台桌面应用，把 Claude Code、Claude Desktop、Codex、Gemini CLI、OpenCode、OpenClaw、Hermes Agent 这七个 AI 编程 CLI 的供应商配置、MCP 服务器、Prompts、Skills、代理、会话和成本追踪全部收进一个界面。
 
 > 开源指路：https://github.com/farion1231/cc-switch
 
