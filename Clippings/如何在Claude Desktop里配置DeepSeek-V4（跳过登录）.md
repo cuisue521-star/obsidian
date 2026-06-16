@@ -9,7 +9,7 @@ tags:
   - clippings
 tool: Claude
 ---
-我猜你肯定会用CC Switch来给Claude Code CLI配置各种不同模型了，那Claude Desktop你会么？
+我猜你肯定会用CC Switch来给Claude Code CLI配置各种不同模型了，那[Claude Desktop]()你会么？
 
 如果答案是NO，那请按照下面的操作步骤，5分钟就能让Claude Desktop用上DeepSeek-V4啦～
 
