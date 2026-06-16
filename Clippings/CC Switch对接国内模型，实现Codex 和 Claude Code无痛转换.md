@@ -70,7 +70,7 @@ Windows 用户从 Releases 页面下载 `.msi` 安装包，双击运行即可；
 
 注意，key 只会在创建时完整显示这一次，记得当场复制保存好，后面在 CC Switch 里要用到它。
 
-## 把 DeepSeek 接入 [Claude ](如何在)
+## 把 DeepSeek 接入 [Claude ](Claude Desktop)
 
 我们先从简单的 Claude Code 开始。
 
