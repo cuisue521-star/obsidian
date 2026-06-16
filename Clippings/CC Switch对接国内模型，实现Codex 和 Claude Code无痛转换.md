@@ -231,7 +231,6 @@ Codex → CC Switch → DeepSeek → CC Switch → Codex
 
 想对接别家大模型的话，操作几乎一模一样。在 CC Switch 里选对应的供应商预设（没有预设就自定义一个），把人家给你的专属 Base URL 和 API Key 填进去就行。对接 Claude Code 能直接生效，对接 Codex 时记得同样开启本地路由。
 
-## 最后哔哔
 
 看到这里你会发现，现在学 AI 编程的门槛真的低到不能再低了。
 
@@ -239,7 +238,4 @@ Codex → CC Switch → DeepSeek → CC Switch → Codex
 
 所以别再用「我没账号、用不起」当借口了，配好环境，赶紧上手把工具用起来才是。
 
-OK 就分享到这里，本文会收录到我免费开源的 《Vibe Coding 零基础入门教程》，上千张图、几十万字，带你从 0 开始快速学会 AI 编程，做出自己的产品、跑通变现全流程，一次拿捏。
-
-> 开源指路：https://github.com/liyupi/ai-guide
 
