@@ -144,7 +144,6 @@ npm install -g @openai/codex
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1Emb2AuAPcgR4ibJQFu53l7AmLz0oU0dQcz0OqkxS1uLSb5krZE1Gicze1bXVTgcsX0ic8aHtuqve89V2MSSVv6YXWFJSumn4p574/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=15)
 
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/LlSQOKIxJ1G3HCZyWusPedy70WP9FcLKalqpNsy2hpwFQLFMpj1oSibW082ribC7QiaVE9FF0MRJlZcXrWdmzXTwxSYxt
 ### Codex 接入原理
 
 既然 Codex 的配置都放在 `~/.codex/config.toml` 这个文件里，那我直接把里面的接口地址 `base_url` 改成 DeepSeek 的不就行了？
@@ -233,7 +232,4 @@ Codex → CC Switch → DeepSeek → CC Switch → Codex
 看到这里你会发现，现在学 AI 编程的门槛真的低到不能再低了。
 
 一个开源工具 + 国内大模型，几分钟就能把官方收费、还要魔法的 Claude Code、Codex 跑起来，成本可能就是官方的零头。说真的，工具和模型都不该成为你学习路上的拦路虎。
-
-所以别再用「我没账号、用不起」当借口了，配好环境，赶紧上手把工具用起来才是。
-
 
