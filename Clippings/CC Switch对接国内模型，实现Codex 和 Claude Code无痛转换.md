@@ -143,7 +143,6 @@ npm install -g @openai/codex
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1Emb2AuAPcgR4ibJQFu53l7AmLz0oU0dQcz0OqkxS1uLSb5krZE1Gicze1bXVTgcsX0ic8aHtuqve89V2MSSVv6YXWFJSumn4p574/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=15)
 
-至于 Codex 桌面 APP 的安装和基础玩法，前段时间我刚出过一套《保姆级的视频 + 图文教程》，需要的同学直接到我的 鱼皮 AI 导航 自取：
 
 ![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/LlSQOKIxJ1G3HCZyWusPedy70WP9FcLKalqpNsy2hpwFQLFMpj1oSibW082ribC7QiaVE9FF0MRJlZcXrWdmzXTwxSYxtVdsyEaX0pkTPAqVgg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=16)
 
