@@ -1,13 +1,11 @@
 ---
-title: "领导禁止实习生用 Codex 和 Claude Code，说国内用不了、价格死贵。。我怒了：这不胡扯么？2 分钟包你用上"
-source: "https://mp.weixin.qq.com/s/IyB5vFWFNiDS7uT-TKdydA"
+title: 领导禁止实习生用 Codex 和 Claude Code，说国内用不了、价格死贵。。我怒了：这不胡扯么？2 分钟包你用上
+source: https://mp.weixin.qq.com/s/IyB5vFWFNiDS7uT-TKdydA
 author:
   - "[[程序员鱼皮]]"
-published:
-created: 2026-06-05
-description: "2 分钟教你用 Claude Code 和 Codex 对接国内模型，保姆级教程"
+description: 2 分钟教你用 Claude Code 和 Codex 对接国内模型，保姆级教程
 tags:
-  - "clippings"
+  - clippings
 ---
 它是一个跨平台桌面应用，把 Claude Code、Claude Desktop、Codex、Gemini CLI、OpenCode、OpenClaw、Hermes Agent 这七个 AI 编程 CLI 的供应商配置、MCP 服务器、Prompts、Skills、代理、会话和成本追踪全部收进一个界面。
 
