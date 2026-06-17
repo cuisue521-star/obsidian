@@ -1,8 +1,6 @@
 ---
 title: 领导禁止实习生用 Codex 和 Claude Code，说国内用不了、价格死贵。。我怒了：这不胡扯么？2 分钟包你用上
 source: https://mp.weixin.qq.com/s/IyB5vFWFNiDS7uT-TKdydA
-author:
-  - "[[程序员鱼皮]]"
 description: 2 分钟教你用 Claude Code 和 Codex 对接国内模型，保姆级教程
 tags:
   - clippings
