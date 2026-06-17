@@ -1,5 +1,4 @@
 ---
-title: 领导禁止实习生用 Codex 和 Claude Code，说国内用不了、价格死贵。。我怒了：这不胡扯么？2 分钟包你用上
 source: https://mp.weixin.qq.com/s/IyB5vFWFNiDS7uT-TKdydA
 description: 2 分钟教你用 Claude Code 和 Codex 对接国内模型，保姆级教程
 tags:
@@ -13,7 +12,6 @@ tags:
 
 咱们怎么能因为「用不了工具」这种事，就把学 AI 编程的劲头给浇灭了呢！
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/LlSQOKIxJ1HbY3hFoia8PZzHX4CdYqec1oZEibibibomTrKl5JadHS2KicuOa8tRzTiaVibzTRE7bEZGMeGvkO41qyK89Xl9S9FWBDDTticWcicuialgU/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
 
 其实 Claude Code 和 Codex 都支持切换模型，咱们用国内的大模型（比如 DeepSeek、Qwen、智谱 GLM）来驱动它们就行，量大管饱，不用魔法，也不怕封号。
 
