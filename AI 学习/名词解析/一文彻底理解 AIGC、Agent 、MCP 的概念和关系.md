@@ -1,15 +1,20 @@
 ---
-title: "一文彻底理解 AIGC、Agent 、MCP 的概念和关系"
-source: "https://zhuanlan.zhihu.com/p/1928117140751362037"
+title: 一文彻底理解 AIGC、Agent 、MCP 的概念和关系
+source: https://zhuanlan.zhihu.com/p/1928117140751362037
 author:
   - "[[腾讯技术工程​]]"
 published:
 created: 2026-06-18
-description: "作者：willzhen 近两年 AI 技术发展迅猛，日新月异。大语言模型 (LLM)、AIGC、多模态、RAG、Agent、MCP 等各种相关概念层出不穷，若不深入了解，极易混淆。本文旨在简要介绍这些 AI 技术的核心概念、基本原理及其…"
+description: 作者：willzhen 近两年 AI 技术发展迅猛，日新月异。大语言模型 (LLM)、AIGC、多模态、RAG、Agent、MCP 等各种相关概念层出不穷，若不深入了解，极易混淆。本文旨在简要介绍这些 AI 技术的核心概念、基本原理及其…
 tags:
-  - "clippings"
+  - clippings
 ---
-127 人赞同了该文章
+`Agent = 大模型（Model） + Harness`，其中Harness负责驱动模型运行循环（如调用→执行→验证）
+好马配好鞍
+
+- ‌**大模型 (Model)**‌：‌**推理大脑**‌。负责理解语义、逻辑推理和生成文本，本身无记忆、无行动能力，被动响应指令 。
+- ‌**Agent (智能体)**‌：‌**执行系统**‌。以大模型为核心，叠加‌**记忆、规划、工具调用**‌模块，具备自主拆解任务、多步执行和闭环反馈能力，能“自己办事” 。
+- ‌**MCP (Model Context Protocol)**‌：‌**连接协议**‌。一种标准化接口规范（类似 USB-C），解决 Agent/大模型与外部工具（数据库、API、文件）的‌**统一对接**‌问题，本身不具备决策或执行能力 。‌‌127 人赞同了该文章
 
 作者：willzhen
 
