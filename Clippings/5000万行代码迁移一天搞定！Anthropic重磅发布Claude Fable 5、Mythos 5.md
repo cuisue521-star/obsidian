@@ -15,8 +15,7 @@ tags:
 
 出品 | CSDN（ID：CSDNnews）
 
-[[6 月 10 日凌晨，Anthropic 重磅发布了两款顶级大 模型 ——Claude Fable 5 和 Claude Mythos 5。
-]]
+[[6 月 10 日凌晨，Anthropic 重磅发布了两款顶级大 模型 ——Claude Fable 5 和 Claude Mythos 5。]]
 作为 Anthropic 当[[创建链接]]，这两款模型刚刚亮相，便迅速引爆全球开发者社区。短短几个小时内，社交媒体和 AI 圈几乎被同一个话题刷屏：Claude 又把大模型能力推到了什么程度？
 
 Anthropic 官方给出的评价相当直接：Claude Fable 5 已经超越此前所有公开发布的 Claude 模型，在软件工程、知识工作、视觉理解和科研任务等多个领域达到新的高度，并在绝大多数主流评测基准上跻身行业第一梯队。
