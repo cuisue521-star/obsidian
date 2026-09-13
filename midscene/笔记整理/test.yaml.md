@@ -10,5 +10,5 @@
 - action: aiAssert 
   desc: 页面存在 Midscene github 相关结果
 
-
+运行
 npx midscene test.yaml
