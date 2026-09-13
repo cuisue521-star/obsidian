@@ -8,4 +8,7 @@
 - action: aiWaitFor 
   desc: 搜索结果列表展示出来 
 - action: aiAssert 
-  desc: 页面存在 Midscene github 相关结果`
+  desc: 页面存在 Midscene github 相关结果
+
+
+npx midscene test.yaml
