@@ -1,3 +1,4 @@
+脚本：
 `steps: 
 - action: goto 
   value: https://www.baidu.com 
@@ -10,5 +11,5 @@
 - action: aiAssert 
   desc: 页面存在 Midscene github 相关结果
 
-运行
+运行：
 npx midscene test.yaml
